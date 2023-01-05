@@ -1,0 +1,4 @@
+[submodule "third_party/SDRPlusPlus"]
+	path = third_party/SDRPlusPlus
+	url = https://github.com/meta-flutter/SDRPlusPlus.git
+	branch = jw/comp_surf
